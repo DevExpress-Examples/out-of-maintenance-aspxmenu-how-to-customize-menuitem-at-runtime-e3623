@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxMenu - How to customize MenuItem at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3623/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to customize MenuItem in the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxMenuASPxMenuBase_ItemDataBoundtopic"><u>ASPxMenu.ItemDataBound</u></a> event handler. To add Html tags to MenuItems, set the ASPxMenu.EncodeHtml property to false.</p>
